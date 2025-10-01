@@ -52,7 +52,7 @@ fraud-detection/
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
 └── data/                 # Dataset directory
- Usage
+## Usage
 Open the Jupyter notebook:
 
 bash
@@ -67,7 +67,7 @@ Train and compare multiple models
 
 Evaluate performance metrics
 
- Dataset
+## Dataset
 The dataset contains 15,420 entries with 33 features including:
 
 Transaction details (Month, WeekOfMonth, DayOfWeek)
@@ -78,7 +78,7 @@ Policy details (PolicyType, VehicleCategory, Deductible)
 
 Fraud indicator (FraudFound_P)
 
- Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
  License
